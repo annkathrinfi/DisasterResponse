@@ -54,14 +54,9 @@ scikit-learn<br/>
 
 ## **Results**<br/>
 End result is a web app powered by supervised machine learning model which:<br/>
-A) Contains Visualizations
-B) When a message is entered, classfies into different groups.
-Ex: Type:  we are more than 50 people on the street. Please help us find tent and food & Click "Classify Message" Button
-
-![Screenshot](DisasterResponse AppResult.jpg)
-![Screenshot](Viz2.jpg)
-![Screenshot](Viz3.jpg)
-![Screenshot](Viz1.jpg)
+A) Contains Visualizations<br/>
+B) When a message is entered, classfies into different groups.<br/>
+Ex: Type:  we are more than 50 people on the street. Please help us find tent and food & Click "Classify Message" Button<br/>
 
 ## **Licensing, Acknowledgements**<br/>
 Thanks to real life disaster messages data from Appen.<br/>
