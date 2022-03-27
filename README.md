@@ -1,5 +1,5 @@
 # Disaster Response
-Second project for Udacity Data Science Nanodegree. A ETL pipeline, NLP and Machine Learning pipeline were built to classify disaster related messages data into different categories.
+Second project for Udacity Data Science Nanodegree. A ETL pipeline, NLP and Machine Learning pipeline were built to classify disaster related messages into different categories.
 
 ## **Table of Contents:**
 1. [Project Overview](README.md#project-Overview)
