@@ -58,7 +58,7 @@ A) Contains Visualizations
 B) When a message is entered, classfies into different groups.
 Ex: Type:  we are more than 50 people on the street. Please help us find tent and food & Click "Classify Message" Button
 
-![Screenshot](Classifying_text.jpg)
+![Screenshot](DisasterResponse AppResult.jpg)
 ![Screenshot](Viz2.jpg)
 ![Screenshot](Viz3.jpg)
 ![Screenshot](Viz1.jpg)
